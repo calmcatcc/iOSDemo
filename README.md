@@ -1,4 +1,3 @@
 # iOS-Demo
-# ios开发中一些重要的基础知识点以及开发技巧，都是我在开发过程中遇到总结的，供大家交流学习
-# 所有的demo在我的博客中均有详细讲解http://www.damonxz.com
-# 仅供参考，欢迎指正，以帮助更多的人！
+# Some important basic knowledge and development skills in iOS development are summarized by me during the development process, for everyone to exchange and learn. 
+# For reference only, welcome corrections to help more people!
